@@ -24,12 +24,7 @@ import edu.csupomona.cs.cs240.prog_assgmnt_1.List;
 /**
  * The Graph class is used to create the set of vertices and edges. 
  * The Graph is constructed as a HashMap that holds Location objects and can be accessed using a String key. The
- * Graph maintains a Priority Queue of Locations that represent unvisited vertices when 
- * Determine the shortest path. Graph also maintains a HashMap of String[] Arrays that 
- * can be accessed using Strings. Each String array holds the names of Locations that
- * are associated with specified keywords. Within the Graph class are two different 
- * methods that mark paths from a starting point to any other point in the Graph.
- */
+*/
 public class Graph {
 	/**
 	 * locations represents 
